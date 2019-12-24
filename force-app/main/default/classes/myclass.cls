@@ -1,3 +1,8 @@
+/*
+	This is the first commit via CircleCI
+
+*/
+
 public with sharing class myclass {
 	public myclass() {
 
